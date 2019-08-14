@@ -45,7 +45,7 @@ public class Finding_gene_in_DNA {
     }
     public static void main(String[] args)
     {
-        Part1 obj = new Part1();
+        Finding_gene_in_DNA obj = Finding_gene_in_DNA Part1();
         obj.testSimpleGene();
     }
 }
